@@ -1,0 +1,15 @@
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.csproj.AssemblyReference.cache
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.AssemblyInfoInputs.cache
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.AssemblyInfo.cs
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.csproj.CoreCompileInputs.cache
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\bin\Debug\net6.0\N58.exe
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\bin\Debug\net6.0\N58.deps.json
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\bin\Debug\net6.0\N58.runtimeconfig.json
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\bin\Debug\net6.0\N58.dll
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\bin\Debug\net6.0\N58.pdb
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.dll
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\refint\N58.dll
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.pdb
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\N58.genruntimeconfig.cache
+C:\Users\kalex\Desktop\Марина\C#1\Семинары\DZC#8\N58\obj\Debug\net6.0\ref\N58.dll
